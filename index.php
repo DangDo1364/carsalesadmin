@@ -1,1 +1,1 @@
-<?php echo "Hello Azure!";?>
+<?php echo "Hello Azure, success!";?>
